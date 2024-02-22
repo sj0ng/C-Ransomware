@@ -1,5 +1,3 @@
-#C#
-
 using System;
 using SharpAESCrypt;
 
